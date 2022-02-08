@@ -1,0 +1,20 @@
+.first-div{
+    background-color: gold;
+    color: white;
+    padding-left: 250px;
+}
+h4{
+    background-color: grey;
+}
+/* button{
+    color:blue;
+} */
+.update{
+    margin-left: 100px;
+    background-color: blue;
+    color: white;
+
+}
+h1{
+    margin-left: 250px;
+}
